@@ -9,6 +9,7 @@ import ErrorPage from './components/ErrorPage';
 import Root from './Root';
 import routes from './routes';
 import RequireAuth from './components/common/RequireAuth';
+import Login from './components/Login';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
